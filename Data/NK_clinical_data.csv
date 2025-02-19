@@ -1,0 +1,4 @@
+MRN,Accession,TissueType,Race,Ethnicity,Sex,DOB,"Biopsy indication",Bx_date,Hx_CKD,Cr_bx,Notes
+2158596,S22-23634,Control,Black,Not,F,1992/09/01,"Renal tumor, partial nephrectomy",2022/08/11,No,0.63,"Tumor + normal kidney within sample. Confirm that you are looking just at sample"
+4968488,S22-25066,Control,White,Unknown,F,1962/08/22,"Renal mass, partial nephrectomy",2022/08/25,No,0.96,"Tumor + normal kidney within sample. Confirm that you are looking just at sample"
+3112236,S22-25253,Control,White,Not,M,1947/04/13,"Real mass, radical nephrectomy",2022/08/26,No,1.01,"Tumor + normal kidney within sample. Confirm that you are looking just at sample"
